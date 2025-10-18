@@ -15,7 +15,7 @@ This file is used to connect this repository to the **PRG** project categorizati
 **Repository Tier:** Bronze <br>
 **Technology:** RPGLE, RPG, IBM i (AS/400), iSeries <br>
 **Category:** Console Application <br>
-**Order:** 43 <br>
+**Order:** 41 <br>
 
 ## Parameters
 
